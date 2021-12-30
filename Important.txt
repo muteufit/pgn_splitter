@@ -1,0 +1,3 @@
+this version has a bug, it'll not give you the last PGN 
+as i used a method that claculate the new lines to split the pgn
+if you will to fix it or creat a new one from scratch i'll be happy to fork it.
